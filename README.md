@@ -167,6 +167,7 @@ Note: THIS MAKES BACKUPS TOO, SO YEAH. JUST DO IT. DO IT!
 ```bash
 $ git clone https://github.com/Axarva/dotfiles-2.0.git
 $ cd ./dotfiles-2.0
+# replace your_username with your username, for example $ cp BetterDiscord /home/archie/.config/
 $ cp BetterDiscord /home/your_username/.config/
 $ chmod +x ./install-on-arch.sh
 $ ./install-on-arch.sh
@@ -200,6 +201,8 @@ You need to install the dependencies yourself, this script will add the fonts an
 ```bash
 $ git clone https://github.com/Axarva/dotfiles-2.0.git
 $ cd ./dotfiles-2.0
+# replace your_username with your username, for example $ cp BetterDiscord /home/archie/.config/
+$ cp BetterDiscord /home/your_username/.config/
 $ chmod +x ./install-on-gentoo.sh
 $ ./install-on-gentoo.sh
 ```
