@@ -54,6 +54,7 @@ Even if you're not, just look through the gallery 📷:
 <img src='/screenshots/sidebar.png'>
 <img src='/screenshots/firefox.png'>
 <img src='/screenshots/center.png'>
+<img src='/screenshots/Screenshot from 2021-07-19 11-48-10.png'>
 
 <a id="workflow"></a>
 
