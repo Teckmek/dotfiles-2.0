@@ -21,6 +21,7 @@
   - [Other Install 🚂](#other)
 - [Dependencies 📊](#deps)
 - [Troubleshooting 🔫](#trouble)
+- [Better Discord](#trouble)
 
 <a id="about"></a>
 
