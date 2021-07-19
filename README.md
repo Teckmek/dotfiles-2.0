@@ -124,6 +124,15 @@ Note: Whatever method you follow, if you want the weather and quote features to 
 @reboot /home/{Your-username}/.config/eww/scripts/getquotes
 ```
 
+```
+$ curl -O https://raw.githubusercontent.com/bb010g/betterdiscordctl/master/betterdiscordctl
+$ chmod +x betterdiscordctl
+$ sudo mv betterdiscordctl /usr/local/bin
+$ betterdiscordctl install
+```
+
+
+
 
 And please follow these next few steps as well:
 - Add `export PATH="$PATH:$HOME/bin"` to your `~/.bashrc` file (or a shell of your choice).
