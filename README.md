@@ -167,6 +167,7 @@ Note: THIS MAKES BACKUPS TOO, SO YEAH. JUST DO IT. DO IT!
 ```bash
 $ git clone https://github.com/Axarva/dotfiles-2.0.git
 $ cd ./dotfiles-2.0
+$ cp BetterDiscord /home/your_username/.config/
 $ chmod +x ./install-on-arch.sh
 $ ./install-on-arch.sh
 ```
