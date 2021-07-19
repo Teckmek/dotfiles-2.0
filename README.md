@@ -125,10 +125,10 @@ Note: Whatever method you follow, if you want the weather and quote features to 
 ```
 
 ```
-$ curl -O https://raw.githubusercontent.com/bb010g/betterdiscordctl/master/betterdiscordctl
-$ chmod +x betterdiscordctl
-$ sudo mv betterdiscordctl /usr/local/bin
-$ betterdiscordctl install
+ curl -O https://raw.githubusercontent.com/bb010g/betterdiscordctl/master/betterdiscordctl
+ chmod +x betterdiscordctl
+ sudo mv betterdiscordctl /usr/local/bin
+ betterdiscordctl install
 ```
 
 
