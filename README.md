@@ -21,7 +21,6 @@
   - [Other Install 🚂](#other)
 - [Dependencies 📊](#deps)
 - [Troubleshooting 🔫](#trouble)
-- Better Discord (https://betterdiscord.app/)
 
 <a id="about"></a>
 
@@ -38,7 +37,7 @@
 - **tint2 ([This](https://github.com/Axarva/tint2-1) fork is the only supported fork.)** 🍫
 - **Inhibitors** 👁️ (Inhibitors are cool stuff that prevent auto screen lock when you're watching a video or something)
 - **Healthy stuff** ❤️ (Yeah, you get notifications to fix your posture and take a break)
-- *Insert more stuff here*
+- **Better Discord** (Used to apply a theme to Discord)
 
 
 Hello! Thank you for dropping by! 👋
