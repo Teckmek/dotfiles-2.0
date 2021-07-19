@@ -227,6 +227,8 @@ Ahhhhh the other main stuff. Here you go, peeps. Make sure you have em all.
 -    candy-icons. [Link](https://github.com/EliverLara/candy-icons)
 -    dunst
 -    Spotify (for cover art, else edit the eww/scripts/getart script accordingly)
+-    Discord 
+-    BetterDiscord (to theme discord)
 -    An OpenWeatherMap Account, (view eww/scripts/getweather script for more info)
 -    feh
 -    NetworkManager
