@@ -123,6 +123,7 @@ Note: Whatever method you follow, if you want the weather and quote features to 
 0,30 * * * * /home/{Your-username}/.config/eww/scripts/getweather
 @reboot /home/{Your-username}/.config/eww/scripts/getquotes
 ```
+To install BetterDiscord Run These Commands
 
 ```
  curl -O https://raw.githubusercontent.com/bb010g/betterdiscordctl/master/betterdiscordctl
